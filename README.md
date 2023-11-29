@@ -183,7 +183,7 @@ Contributions are welcome!
 # Screenshot
 on ios, android, windows
 
-![DateTimePicker](https://raw.githubusercontent.com/sebarslan/Maui.NullableDateTimePicker/main/screenshot.png)
+![DateTimePicker](https://github.com/SynergitCZ/Synergit.Maui.Camera/tree/master/Synergit.Maui.Camera/_Documentation/screenshot.png)
 
 # Changelog
 

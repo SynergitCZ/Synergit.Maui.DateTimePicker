@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<TargetFrameworks>net8.0</TargetFrameworks>
@@ -22,14 +22,10 @@
 		<Version>0.7.0-beta</Version>
 	</PropertyGroup>
 
-	<ItemGroup>
-		<None Include="Documentation\README.md">
-			<Pack>True</Pack>
-			<PackagePath>\</PackagePath>
-		</None>
-		<None Include="Documentation\screenshot.png">
-			<Pack>True</Pack>
-			<PackagePath>\</PackagePath>
+	<ItemGroup>		
+		<None Include="..\README.md">
+		  <Pack>True</Pack>
+		  <PackagePath>\</PackagePath>
 		</None>		
 		<None Include="Images\date_time_picker.png">
 			<Pack>True</Pack>
