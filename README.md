@@ -183,7 +183,7 @@ Contributions are welcome!
 # Screenshot
 on ios, android, windows
 
-![DateTimePicker](https://github.com/SynergitCZ/Synergit.Maui.Camera/tree/master/Synergit.Maui.Camera/_Documentation/screenshot.png)
+![DateTimePicker](_Documentation/screenshot.png)
 
 # Changelog
 

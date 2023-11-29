@@ -33,6 +33,28 @@
                 ShowWeekNumbers="True"
                 WidthRequest="300" />
 
+            <sgdtp:SGDateTimePicker
+                Padding="5,0,5,0"
+                CornerRadius="5"
+                HeightRequest="40"
+                HorizontalOptions="Start"
+                Mode="Date"
+                NullableDateTime="{Binding MyDateTime}"
+                SelectedDayStyle="{StaticResource SelectedDayStyle}"
+                ShowWeekNumbers="True"
+                WidthRequest="300" />
+
+            <sgdtp:SGDateTimePicker
+                Padding="5,0,5,0"
+                CornerRadius="5"
+                HeightRequest="40"
+                HorizontalOptions="Start"
+                Mode="Time"
+                NullableDateTime="{Binding MyDateTime}"
+                SelectedDayStyle="{StaticResource SelectedDayStyle}"
+                ShowWeekNumbers="True"
+                WidthRequest="300" />
+
         </VerticalStackLayout>
     </ScrollView>
 
